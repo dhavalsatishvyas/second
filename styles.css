@@ -1,0 +1,239 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.Top-Container {
+  background-color: peachpuff ;
+  position: relative;
+  padding-top:5px;
+}
+.profile {
+  background-color: peachpuff ;
+  color: 	#ff9999;
+  font-family: 'Rock Salt', cursive;
+  font-size: 1.2rem ;
+  padding-bottom:15px;
+  text-align:center;
+}
+.top-cloudtop{
+  position: absolute;
+  right:600px;
+  top:5px;
+  left:10px;
+  margin-bottom: 25px;
+  width: auto;
+  height: auto;
+
+}
+.top-cloudbottom{
+  position: absolute;
+  top:200px;
+  bottom:800px;
+  margin-bottom: 65px;
+  margin-left: 35px;
+  margin-top: 25px;
+  left:890px;
+  width: auto;
+  height: auto;
+}
+.top-roundselfportrait{
+  position: absolute;
+  width:150px;
+  height: 150px;
+  right: 600px;
+  left:130px;
+  top:235px;
+}
+.top-bird1 {
+  padding-top: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  width: auto;
+  height: auto;
+}
+hr {
+  margin: 0 auto;
+border-style:none;
+}
+
+.skills
+{border-style: hidden;
+}
+.skill-row{
+  background-color: #FFFFDD;
+  text-align:left;
+  line-height: 1.5;
+  padding-top:100px;
+  padding-bottom:320px;
+  border-style:none;
+}
+.skill-row1{
+  background-color: peachpuff ;
+  text-align:center;
+  height:auto;
+  padding-top: 30px;
+  padding-bottom:75px;
+  border-style:none;
+}
+.contact-me {
+  position: relative;
+  background-color: #FFFFDD;
+  text-align:right;
+  line-height: 1.5;
+  padding-top:123px;
+  padding-bottom:140px;
+  border-style:none;
+}
+.middle-container {
+background-color: #FFFFDD ;
+padding-top: 05px;
+}
+.middle-nightsky2{
+  margin-top: 25px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:25px;
+  padding-top: 50px;
+  padding-right:100px;
+  padding-left: 100px;
+  padding-bottom:05px;
+  width:auto;
+  height:auto;
+  text-align:centre;
+ float: center;
+}
+.middle-computer{
+margin-top: 35px;
+margin-bottom:35px;
+width: 345px;
+height: 275px;
+float: left;
+margin-right: 30px;
+text-align: left;
+}
+
+.middle-posterboy{
+  margin-top: 35px;
+  margin-bottom:35px;
+  width: 345px;
+  height: 275px;
+  float:right;
+  margin-left: 30px;
+  text-align: left;
+  }
+.BUTTON {
+  padding-bottom: -50px;
+  margin-bottom: -250px;
+  margin-left: -300px;
+  position:absolute;
+  line-height: 1;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  font-family: verdana;
+  color: #11999E;
+  font-size: 14px;
+  text-shadow: 3px 2px 1px #38DEC2;
+  box-shadow: 2px 2px 1px #BEE2F9;
+  padding: 12px 26px;
+  -moz-border-radius: 16px;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+  border: 2px solid #3866A3;
+  background: #11999E;;
+  background: linear-gradient(top,  #42DEE1,  #11999E);
+  background: -ms-linear-gradient(top,  #42DEE1,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#42DEE1), to(#11999E));
+  background: -moz-linear-gradient(top,  #42DEE1,  #11999E);
+  }
+
+.bottom-container {
+  background-color: peachpuff  ;
+  width: auto;
+  height: auto;
+  padding-bottom: 15px 0 15px;
+  text-align: center;
+}
+.bottom-bird2
+ {
+  height: 55px;
+  width: 55px;
+  line-height: 15px;
+  margin: auto;
+  padding-top: 05px;
+  }
+a {
+  font-family: 'Rock Salt', cursive;
+  font-size: .90rem ;
+  font-weight: 800;
+  color: 	#66BFBF;
+  margin: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  color: #ff9999;
+}
+.copyright {
+  color:#ff9999;
+  font-size: 0.75rem;
+  padding: 05px 0 ;
+  margin: 2.5 auto 0 auto;
+}
+h1 {
+  color: 	#66BFBF;
+  font-family: 'Rock Salt', cursive;
+  font-size: 2rem ;
+  margin: 0 auto 0 auto;
+  width: 20%;
+  margin-top:12px;
+  margin-bottom:12px;
+  line-height: 2;
+}
+h2 {
+color: 	#66BFBF;
+font-family: 'Rock Salt', cursive;
+margin: 0 auto 0 auto;
+font-size:1.5rem;
+padding-top:20px;
+padding-bottom:20px;
+text-align:center;
+}
+h3 {
+color: 	#66BFBF;
+font-family: 'Rock Salt', cursive;
+font-size:1.2rem ;
+line-height: 2;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 300px;
+padding-left: 300px;
+}
+p {
+font-family: 'montesserat';
+color: #ff9999;
+font-size: 1.2rem;
+margin: 0 auto 0 auto;
+width:50%;
+line-height: 2;
+}
+.a{
+  font-family: 'Rock Salt', cursive;
+  font-size: 1rem ;
+  color: #ff9999;
+  font-weight: normal;
+  margin-right: 7px;
+}
+.Web{
+font-family: 'Rock Salt', cursive;
+font-size: 1rem ;
+color: #ff9999;
+font-weight: normal;
+}
+.-Developer{
+font-family: 'Rock Salt', cursive;
+font-size: 1rem ;
+color: #ff9999;
+font-weight: normal;
+}
